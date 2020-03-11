@@ -1,3 +1,5 @@
+
+
 public class CheckRotation {	
 
 	public static int arrayRotateCheck(int[] arr){
